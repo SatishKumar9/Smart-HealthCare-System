@@ -44,6 +44,8 @@ If you are a doctor after logging in you will be directed to doctor home page
 
 (4)	Payments details: here we will have all the details of his payments.
 
+
+
 If you are admin you will be directed to admin homepage.
 
 (1)	Manage records: here we can find all the records of patients and, doctors, history of all appointments, medicines etc.
@@ -55,7 +57,6 @@ If you are admin you will be directed to admin homepage.
 (4)	Manage appointments and orders: here he can cancel appoints or modify timings based on requests from patients and doctors and he will have options to refund amount for cancelled orders.
 
 (5)	Manage departments: here he can find options to modify department details and time slots of doctors etc.
-
 
 
 
