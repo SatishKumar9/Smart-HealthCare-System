@@ -52,7 +52,7 @@ If you are admin you will be directed to admin homepage.
 
 (3)	Customer service and order handling: here he will receive feedback and he will receive orders and he will have options to send orders and provide tracking information based on the request.
 
-(4)	Manage appointments and orders: here he can cancel appoints or modify timings based on requests from patients and doctors and he will have options to refund amount for cancelled orders 
+(4)	Manage appointments and orders: here he can cancel appoints or modify timings based on requests from patients and doctors and he will have options to refund amount for cancelled orders.
 
 (5)	Manage departments: here he can find options to modify department details and time slots of doctors etc.
 
